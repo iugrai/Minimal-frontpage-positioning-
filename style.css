@@ -71,30 +71,34 @@ p {
     margin: 0 auto;
     padding-top: 50px;
     padding-bottom: 50px;
-    width: 50%;
+    width: 900px;
 }
 
 h2 {
     font-size: 30px;
-    width: 50%;
+    width: 450px;
 }
 
 
 .content-lead {
     font-weight: bold;
-    width: 65%;
-    font-size: 18px;
+    width: 490px;
+    font-size: 17px;
 }
 
 .content-body {
 font-size: 15px;
-width:50%;
+/* width:50%; */
+width: 450px;
 }
 
 .company-image {
-   position: absolute;
+   /* position: absolute;
    right: 10vw;
-   top: 35vw;
+   top: 35vw; */
+   float:right;
+   padding-top: 25px;
+  
 }
 
 footer {
